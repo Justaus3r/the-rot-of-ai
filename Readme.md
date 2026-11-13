@@ -2,7 +2,7 @@
 
 Dated: 13-November-2026
 
-[!NOTE]
+>[!NOTE]
 >**Note: This is a personal note which is mostly a rant, complain, rebuttal for use of AI generated code(and not the field of AI in general). It does not contain any references, is not a scholarly article, and expresses SUBJECTIVE views and personal opinions about the role of AI in Computer Programming. If you are a _slope-code_ advocate, then you probably should ignore this article. I mean, you do you!. Who am I to stop you? Also, I will be _mostly_ migrating from GitHub to CodeBerg (Reasons below). Also, English is not my first language, so expect alot of linguistic errors**
 
 Saying that AI-generated code use in 2026 has been widespread would be a gross understatement. From solo devs to multi-billion-dollar corporations, everyone is wholly or in part using some LLM model for writing most of their code. This statement would've been less true, going back even 1 or 2 years. But now,  agentic coding has become the new de facto method of Computer Programming. Long gone are those days when we as open source developers would write/contribute to human-written Software, and with that the joy and pride of writing Computer Software. And that's not it; with the advent of vibe-coding(which I call slop-coding), the amount of vulnerable, ununderstood code has spiked. Like a magic wand, all you need to apparently write software is a "well-worded prompt" with a whole lot of swearing. It's like that toxic relationship, where you want to break up with your partner but can't since they know all your dirty secrets(yeah, maybe not a good example). Anyways, so in this note, I will present my reasoning for not using AI-generated code in my projects.
